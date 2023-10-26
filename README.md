@@ -1,3 +1,4 @@
 # CV 
 bu benim cv'im için ilk çalışmam 
-öerileriniz için mail adresim aligeylani_can@hotmail.com 
+HTML,CSS ve JS kullandım
+önerileriniz için mail adresim aligeylani_can@hotmail.com 
